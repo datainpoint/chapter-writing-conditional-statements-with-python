@@ -1,2 +1,6 @@
-# chapter-conditionals-in-python
-Chapter of conditionals in Python.
+# chapter-conditional-statement-in-python
+Chapter of conditional statement in Python.
+
+## Topics
+
+- Conditional statement
