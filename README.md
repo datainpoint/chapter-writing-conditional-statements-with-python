@@ -1,5 +1,5 @@
-# chapter-conditional-statement-in-python
-Chapter of conditional statement in Python.
+# chapter-writing-conditional-statements-with-python
+Chapter: Writing conditional statements with Python.
 
 ## Topics
 
